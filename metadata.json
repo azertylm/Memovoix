@@ -1,0 +1,6 @@
+{
+  "name": "MémoVoix — Le Biographe Familial Intergénérationnel",
+  "description": "Application vocale zéro-clavier pour recueillir, sublimer et éditer les souvenirs des grands-parents en un livre de famille intemporel.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
